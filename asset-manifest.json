@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-portfolio-app/static/css/main.3c49b7db.css",
+    "main.js": "/my-portfolio-app/static/js/main.cb3bfc7b.js",
+    "static/media/kannan.jpg": "/my-portfolio-app/static/media/kannan.c608854ea327c233704d.jpg",
+    "static/media/ExpImg.jpg": "/my-portfolio-app/static/media/ExpImg.9fe28c5fdc2f8b5db1be.jpg",
+    "static/media/skilsimage.jpg": "/my-portfolio-app/static/media/skilsimage.bb6c32c2820cf98ea408.jpg",
+    "index.html": "/my-portfolio-app/index.html",
+    "main.3c49b7db.css.map": "/my-portfolio-app/static/css/main.3c49b7db.css.map",
+    "main.cb3bfc7b.js.map": "/my-portfolio-app/static/js/main.cb3bfc7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c49b7db.css",
+    "static/js/main.cb3bfc7b.js"
+  ]
+}
